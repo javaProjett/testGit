@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c462607c-95e8-4808-b148-e1e88123b245" name="Default Changelist" comment="" />
+    <list default="true" id="c462607c-95e8-4808-b148-e1e88123b245" name="Default Changelist" comment="&quot;test 2&quot;">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +75,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="286" y="240" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580312716852" />
+    <state x="557" y="117" key="CommitChangelistDialog2" timestamp="1580314725063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1580314725063" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1580313566985">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

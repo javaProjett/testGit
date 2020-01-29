@@ -16,7 +16,7 @@ public class Date {
     public Date() {
         jour = 31;
         mois = 12;
-        annee = 20;
+        annee = 20; // test
     }
 
     public int getJour(){
