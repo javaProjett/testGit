@@ -12,7 +12,7 @@ import java.util.*;
             Entreprise roboTech = new Entreprise();
             Entreprise flightTech = new Entreprise(patron, listeCadre, listeEmploye, "10 rue du général de gaulle", 4587725, 45878576, new Date(120,Calendar.MARCH,12));
 
-            System.out.println(flightTech.getCreation()); // test
+            System.out.println(flightTech.getCreation()); // test 2 121313
 
 
         }
