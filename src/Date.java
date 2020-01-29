@@ -15,7 +15,7 @@ public class Date {
 
     public Date() {
         jour = 31;
-        mois = 12;
+        mois = 12; // test
         annee = 20; // test
     }
 
